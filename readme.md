@@ -1,4 +1,4 @@
-# Tinker — Privacy-Preserving On-Device Visual Browser Agent
+# Tinker
 
 ## Table of Contents
 
